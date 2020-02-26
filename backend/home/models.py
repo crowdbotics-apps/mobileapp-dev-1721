@@ -40,4 +40,4 @@ class Addd(models.Model):
 
 class Add(models.Model):
     "Generated Model"
-    add = models.BigIntegerField()
+    dd = models.BooleanField(null=True, blank=True,)
